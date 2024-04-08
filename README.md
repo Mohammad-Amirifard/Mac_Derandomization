@@ -5,7 +5,6 @@
   |- 📄 README.md        #Guide file
   |- 📂 data             #Here you can see datasets.
   |- 📂 Notebooks        #Here you can see jupyter files
-  |- 📂 Src              #Here you can see python files
   |- 📂 Report           #Here you can see a complete report of what we have done
 ```
 
