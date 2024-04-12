@@ -4,8 +4,7 @@
 - 📦 Mac De_randomization
   |- 📄 README.md        #Guide file
   |- 📂 data             #Here you can see datasets.
-  |- 📂 Notebooks        #Here you can see jupyter files
-  |- 📂 Report           #Here you can see a complete report of what we have done
+  |- 📂 Notebooks        #Here you can see jupyter file
 ```
 
 
